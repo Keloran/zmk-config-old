@@ -1,3 +1,3 @@
 # zmk-config
 
-QMK build
+QAZ build
